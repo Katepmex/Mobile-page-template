@@ -1,6 +1,6 @@
 <p align="center">
 </p>
-<h1 align="center">Mobile Page Template</h1>
+<h1 align="center">Шаблон целевой страницы мобильного приложения</h1>
 <p>
   <a href="/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="MIT"></a>
 </p>
